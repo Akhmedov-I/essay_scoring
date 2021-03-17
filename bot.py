@@ -130,7 +130,7 @@ def error(update, context):
     """Log Errors caused by Updates."""
     logger.warning('Update "%s" caused error "%s"', update, context.error)
 
-TOKEN = '1538265942:AAH2CDZ56snJImmUYAEgEQaqvljhLt69hYo'
+TOKEN = ''
 
 def main():
     """Start the bot."""
