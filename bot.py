@@ -153,7 +153,7 @@ def main():
                           port=int(PORT),
                           url_path=TOKEN)
 
-    updater.bot.setWebhook(f'https://young-taiga-61424.herokuapp.com/{TOKEN}')
+    updater.bot.setWebhook(f'https://essay4scoring-rlhydzw31-akhmedov-i.vercel.app/{TOKEN}')
 
 
     # Run the bot until you press Ctrl-C or the process receives SIGINT,
