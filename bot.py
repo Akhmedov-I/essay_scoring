@@ -153,7 +153,7 @@ def main():
                           port=int(PORT),
                           url_path=TOKEN)
 
-    updater.bot.setWebhook(f'https://essayscoreielts.onrender.com/{TOKEN}')
+    updater.bot.setWebhook(f'https://essaybotforielts.herokuapp.com/{TOKEN}')
 
 
     # Run the bot until you press Ctrl-C or the process receives SIGINT,
